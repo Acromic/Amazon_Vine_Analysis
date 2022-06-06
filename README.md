@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-Analizing Amazon reviews written by members of the paid Amazon Vine program.
+Analyzing Amazon reviews written by members of the paid Amazon Vine program.
 
 ## Results
 pdAdmin and AWS help.<br>
