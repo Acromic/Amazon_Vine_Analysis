@@ -26,4 +26,4 @@ pdAdmin and AWS help.<br>
 ## Summary
 
 Based on the data and analysis i couldn't conclude bias of the 5 star reviews based on the percentages.
-Additinal analysis can be ran on another product to see how the Vine program fares compared to video games.
+Additional analysis can be ran on another product to see how the Vine program fares compared to video games.
